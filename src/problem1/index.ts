@@ -4,7 +4,8 @@
  * Each function computes the summation from 1 to n.
  * i.e. sum_to_n(5) === 1 + 2 + 3 + 4 + 5 === 15
  *
- * Run:  npx tsx src/problem1/index.ts
+ * Run from repo root:  npx tsx src/problem1/index.ts
+ * Run from this dir:   npx tsx index.ts
  */
 
 /**
