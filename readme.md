@@ -36,6 +36,8 @@ npm run dev
 
 Open the URL shown (e.g. http://localhost:5173). See [src/problem2/README.md](src/problem2/README.md) for structure, stack, and scripts.
 
+Or directly access via this link: https://fancy-form-tawny.vercel.app
+
 ### Problem 3 (Code only)
 
 No runnable app. The folder contains:
