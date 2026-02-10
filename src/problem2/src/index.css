@@ -1,0 +1,4 @@
+/* Minimal global resets — MUI ThemeProvider + CssBaseline handle the rest. */
+#root {
+  min-height: 100vh;
+}
